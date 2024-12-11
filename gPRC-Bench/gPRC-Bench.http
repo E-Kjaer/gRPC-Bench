@@ -1,0 +1,6 @@
+@gPRC_Bench_HostAddress = http://localhost:5214
+
+GET {{gPRC_Bench_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
